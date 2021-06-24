@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kiel Arano	kiel@git.training @kielgittraining
 
 # THANKS
 
